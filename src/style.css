@@ -1,0 +1,17 @@
+﻿.mainColor {
+    color: #ffc61a;
+    transition: color 1s;
+}
+
+.mainColorDark {
+    color: #372a28;
+    transition: color 1s;
+}
+
+.mainColorDark:hover {
+    color: #ffc61a;
+}
+
+.mainColor:hover {
+    color: #372a28;
+}
